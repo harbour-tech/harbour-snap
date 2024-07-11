@@ -1,5 +1,5 @@
 {
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Magic Ramp by Harbour",
   "proposedName": "Magic Ramp",
   "repository": {
@@ -7,7 +7,7 @@
     "url": "https://github.com/harbour-tech/harbour-snap"
   },
   "source": {
-    "shasum": "8eHA2gqpFzkoDShecerTEVzrWQrTIEImaLWlZ28i7tY=",
+    "shasum": "bB8e3yWahVuLRFTTH5wfvuIGntCvG6Cfagqs3Q6iguc=",
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
