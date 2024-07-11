@@ -1,12 +1,9 @@
 # Harbour Ramp Snap for Metamask
 
-## Publishing to npm
+This snap enables seamless authentication with the Harbour API, through the MetaMask wallet.
+It works by deriving a keypair deterministically from a MetaMask wallet, and using it to sign every message sent to the
+Harbour API.
 
-Pre-requisites:
-1. run `npm install` to download all dependencies
-2. run `npm run build` to build the snap
-
-Then to publish to npm:
-1. Update version in package.json
-2. `npx mm-snap manifest --fix`
-3. `npm publish --access public`
+This way, Harbour users only have to connect their wallet once, install the Snap, link the wallet to their account, and
+from that moment onwards they can operate on the dedicated [ramp website](https://snap.harbour.fi/) for buying and
+selling crypto, without ever having to remember a password or inserting OTPs.
