@@ -1,13 +1,13 @@
 {
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Magic Ramp by Harbour",
   "proposedName": "Magic Ramp",
   "repository": {
     "type": "git",
-    "url": "https://github.com/harbour-tech/app-web-ramp.git"
+    "url": "https://github.com/harbour-tech/harbour-snap"
   },
   "source": {
-    "shasum": "0+k9OKzJmyCRm/eSxE88kRCbQmhx6Xo6/xCqNc5zLA0=",
+    "shasum": "8eHA2gqpFzkoDShecerTEVzrWQrTIEImaLWlZ28i7tY=",
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
